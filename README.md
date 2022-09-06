@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 <p>📎 BOJ</P>
 
 [![Solved.ac
-    프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20kee)](https://solved.ac/profile/20kee)
+    프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20kee)](https://solved.ac/20kee)
     
 
