@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <br>
   <img src="https://img.shields.io/badge/flask-61DAFB?style=for-the-badge&logo=flask&logoColor=black">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=psringboot&logoColor=green">
-  <img src="https://img.shields.io/badge/tensorflow-ADAD3F?style=for-the-badge&logo=tenserflow&logoColor=yellow">
+  <img src="https://img.shields.io/badge/tensorflow-FF7F00?style=for-the-badge&logo=tenserflow&logoColor=white">
  
   <br>
 </div>
