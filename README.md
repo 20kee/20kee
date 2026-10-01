@@ -4,11 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br>
-<p>📎 BOJ</P>
-
-[![Solved.ac
-    프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20kee)](https://solved.ac/20kee)
-    
 
 <div><h1>📚 STACKS</h1></div>
 
